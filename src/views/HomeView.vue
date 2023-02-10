@@ -3,14 +3,14 @@
     <div class="max-w-6xl mx-auto mt-4 md:mt-8 mb-10 px-4 lg:px-0">
 		<a href="https://forms.office.com/r/5JVDyEF5mx"><img src="/images/hero-2022.png" class="object-fit rounded-lg shadow-md mb-2 md:mb-8" /></a>
         
-        <h2 class="text-2xl md:text-3xl font-bold mb-3 md:mb-4">About NPSC23</h2>
+        <h2 class="text-2xl md:text-3xl font-bold mb-3 md:mb-4">About NPSF23</h2>
         <div class="flex flex-col md:flex-row">
             <div class="md:mr-6 md:w-1/2">
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">Appreciating the essence of native plants in UAE, we will launch UAE Flora: The Native Plants Database of the Emirates (Version 1.0), and it will serve the purpose of a plant data repository, which is the first of its kind in the United Arab Emirates. and experts from the United Arab Emirates University, the University of Sharjah, the Umm Al Quwain University, the Sultan Qaboos University, and the ICBA will discuss various topics related to native plants, ecosystem preservation, and GIS and AI technologies.</p>
-                <p class="mb-2 md:mb-4 text-sm md:text-lg">The Native Plants and Sustainability Conference (Native Plants: The Key to a Sustainable Future in the UAE) is a one-day event that features influential speakers, speaker sessions on a variety of topics, roundtable discussions, and more.</p>
-                <p class="text-lg mb-4">Come and join us at the Native Plants and Sustainability Conference! This event's primary goal is to share knowledge and promote conservation and ecosystem protection!</p>
+                <p class="mb-2 md:mb-4 text-sm md:text-lg">The Native Plants and Sustainability Forum (Native Plants: The Key to a Sustainable Future in the UAE) is a one-day event that features influential speakers, speaker sessions on a variety of topics, roundtable discussions, and more.</p>
+                <p class="mb-2 md:mb-4 text-sm md:text-lg">Come and join us at the Native Plants and Sustainability Forum! This event's primary goal is to share knowledge and promote conservation and ecosystem protection!</p>
 
-                <h2 class="text-2xl md:text-3xl font-bold mb-4">What's awaiting at Native Plants and Sustainability Conference!</h2>
+                <h2 class="text-2xl md:text-3xl font-bold mb-4">What's awaiting at Native Plants and Sustainability Forum!</h2>
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">
                     This is a gathering of experts, local herbalists, and researchers who will cover multiple topics regarding native plants and sustainability. 
                 </p>
@@ -89,7 +89,7 @@
 
         <!-- Partners -->
         <div class="grid place-items-center md:place-items-start">
-            <h2 class="mt-8 md:mt-10 text-3xl font-bold">Partners</h2>
+            <h2 class="mt-8 mb-8 md:mt-10 text-3xl font-bold">Partners</h2>
         </div>
 
         <div class="md:hidden sm:block lg:block">
@@ -117,9 +117,22 @@
 				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/icaba.png" />
             </div>
         </div>
-
+				<div>
 				<SessionsComponent />
-				<sessionizeSpeakersComponent/>
+			
+				</div>
+			
+			<center>
+			
+				<h2 class="mt-8 mb-8 md:mt-10 text-3xl font-bold">Invitation</h2>
+			<div>		
+				<object data=
+						"https://drive.google.com/u/3/uc?id=1EwiAxPAg6DPCTNewUb-CBP4TQX80zRHR" 
+						width="900" 
+						height="1500"> 
+				</object>
+			</div>	
+			</center>
 				
     </div>
   </main>
@@ -127,13 +140,12 @@
 
 <script>
 import SessionsComponent from '../components/SessionsComponent.vue';
-import sessionizeSpeakersComponent from '../components/SpeakersComponent.vue';
 
 export default {
 	components: {
-		sessionizeSpeakersComponent,
-		SessionsComponent
-		
+		SessionsComponent,	
 	}
 }
+
 </script>
+
