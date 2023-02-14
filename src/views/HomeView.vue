@@ -54,7 +54,7 @@
             <div class="mt-6 md:mt-0 md:ml-2 lg:ml-6 md:w-1/2">
                 <h2 class="text-2xl md:text-3xl font-bold mb-2 md:mb-4">UAE Flora</h2>
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">
-					UAEFlora is a fully referenced, extensively validated, evolving, virtual data base which has been designed and developed to introduce native plants form the biodiversity of UAE to the Global scientific communities, with the help and support of UAE plants’ expert from all the emirates.  
+					UAEFlora is a fully referenced, extensively validated, evolving, virtual database which has been designed and developed to introduce native plants form the biodiversity of UAE to the Global scientific communities, with the help and support of UAE plants’ expert from all the emirates.  
                 </p>
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">
                     This data base will be accessible to experts, researchers, and public to support the UAE flora conservation and reintroduction efforts. For this purpose, over 760 native plants have been identified from more than 200 published articles and books from national and international author..
