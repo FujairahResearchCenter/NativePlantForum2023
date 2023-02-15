@@ -119,7 +119,9 @@
         </div>
 				<div>
 				<SessionsComponent />
-			
+				</div>
+				<div>
+				<SpeakersComponent/>
 				</div>
 			
 			<center>
@@ -140,12 +142,15 @@
 
 <script>
 import SessionsComponent from '../components/SessionsComponent.vue';
+import SpeakersComponent from '../components/SpeakersComponent.vue';
 
 export default {
 	components: {
-		SessionsComponent,	
+		SessionsComponent,
+		SpeakersComponent,
 	}
 }
 
 </script>
+
 
