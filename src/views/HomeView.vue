@@ -57,7 +57,7 @@
 					UAEFlora is a fully referenced, extensively validated, evolving, virtual database which has been designed and developed to introduce native plants form the biodiversity of UAE to the Global scientific communities, with the help and support of UAE plants’ expert from all the emirates.  
                 </p>
                 <p class="mb-2 md:mb-4 text-sm md:text-lg">
-                    This data base will be accessible to experts, researchers, and public to support the UAE flora conservation and reintroduction efforts. For this purpose, over 760 native plants have been identified from more than 200 published articles and books from national and international author..
+                    This database will be accessible to experts, researchers, and public to support the UAE flora conservation and reintroduction efforts. For this purpose, over 760 plants have been identified from more than 200 published articles and books from national and international author..
                 </p>
             </div>
             <div class="md:mr-2 lg:mr-6 md:w-1/2">
