@@ -127,12 +127,9 @@
 			<center>
 			
 				<h2 class="mt-8 mb-8 md:mt-10 text-3xl font-bold">Invitation</h2>
-			<div>		
-				<object data=
-						"https://drive.google.com/u/3/uc?id=1EwiAxPAg6DPCTNewUb-CBP4TQX80zRHR" 
-						width="900" 
-						height="1500"> 
-				</object>
+			<div>	
+			<p>Open the invitation PDF file <a href="https://drive.google.com/u/3/uc?id=1EwiAxPAg6DPCTNewUb-CBP4TQX80zRHR" style='color:blue !important;'>INVITATION_CARD</a>.</p>
+
 			</div>	
 			</center>
 				
