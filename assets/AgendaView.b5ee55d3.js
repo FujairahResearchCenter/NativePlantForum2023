@@ -1,0 +1,1 @@
+import{_ as o,S as s,r as n,o as t,c as a,a as c,b as r}from"./index.05a38280.js";const p={components:{SessionsComponent:s}},_={class:"relative"},i={class:"max-w-6xl mx-auto pt-4 pb-16"};function m(d,l,f,x,u,C){const e=n("SessionsComponent");return t(),a("main",_,[c("div",i,[r(e)])])}const $=o(p,[["render",m]]);export{$ as default};

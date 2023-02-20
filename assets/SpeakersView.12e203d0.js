@@ -1,1 +1,0 @@
-import{_ as o,d as s,r as t,o as a,c as n,a as c,b as r}from"./index.25b8ef3b.js";const p={components:{SpeakersComponent:s}},_={class:"relative"},m={class:"max-w-6xl mx-auto pt-4 pb-16"};function d(i,l,f,k,x,u){const e=t("SpeakersComponent");return a(),n("main",_,[c("div",m,[r(e)])])}const S=o(p,[["render",d]]);export{S as default};
