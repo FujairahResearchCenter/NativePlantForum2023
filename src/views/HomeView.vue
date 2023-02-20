@@ -117,6 +117,24 @@
 				<img class="h-12 md:mr-4 mt-10 md:mt-0" src="/images/icaba.png" />
             </div>
         </div>
+	
+	<div class="grid place-items-center">
+		<h2 class="mt-8 mb-8 md:mt-10 text-3xl font-bold">Program Coordinators</h2>
+		
+        <div class="md:hidden sm:block lg:block">
+            <div class="flex flex-col lg:flex-row md:gap-4 items-center">	
+		<figure>
+			<img src="/images/aseela_almolla.jpg" height="300" width="300" hspace="10">
+			<figcaption style="margin:30px"><b>     H.E Aseela Al Moalla - </b>Director FEA</figcaption>
+		</figure>
+		<figure>
+			<img src="/images/fouad_Lamghari.jpg" height="300" width="300" hspace="10">
+			<figcaption style="margin:30px"><b>Dr. Fouad Lamghari - </b>Director FRC</figcaption>
+		</figure>		
+            </div> 	
+        </div>
+	
+	</div>
 				<div>
 				<SessionsComponent />
 				</div>
